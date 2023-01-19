@@ -1,0 +1,6 @@
+spring:
+  # redis基本配置
+  redis:
+    host: myvm
+    port: 6379
+    password: 1234
